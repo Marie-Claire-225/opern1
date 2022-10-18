@@ -1,0 +1,29 @@
+.h2jour
+{
+    color: rgb(0, 238, 255);
+   
+}
+.h1jour{
+    font-size: 3.5 em;
+}
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+ .flottant{
+  float: right;
+ }
+ p{
+    color: rgb(13, 4, 75);
+    background-color: rgb(218, 230, 174);
+ }
+ div{
+    color: rgb(226, 94, 42);
+    background-color: coral;
+    
+ }
+
+*{
+    background-attachment: fixed;
+    background-image:url("image/IMG_3950ii.png") ;
+}
